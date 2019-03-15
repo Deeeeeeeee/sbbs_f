@@ -18,7 +18,7 @@
 
     <!-- Nav -->
     <nav id="navigation" class="navition container">
-
+      
     </nav>
 
     <!-- Tag Section -->
@@ -99,11 +99,16 @@ export default {
   background-color: violet;
   text-align: center;
   margin: auto;
+  letter-spacing: 3px;
 }
 
 #login-start a {
   font-size: 0.8rem;
   margin-right: 20px;
+}
+
+#login-start #login {
+  margin-top: 0.5rem;
 }
 
 /* Navigation */
